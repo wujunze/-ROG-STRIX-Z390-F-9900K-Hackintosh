@@ -1,0 +1,2 @@
+# -ROG-STRIX-Z390-F-9900K-Hackintosh
+ ROG-STRIX-Z390-F  9900K Hackintosh
